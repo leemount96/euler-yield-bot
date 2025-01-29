@@ -12,7 +12,7 @@ from processor.processor import Processor
 
 load_dotenv()
 
-processor = Processor(chain_id_list=['8453', '1923', '1'], minimum_tvl=1_000_000)
+processor = Processor(chain_id_list=[8453, 1923, 1], minimum_tvl=1_000_000)
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',

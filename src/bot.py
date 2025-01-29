@@ -22,8 +22,12 @@ logging.basicConfig(
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_message(chat_id=update.effective_chat.id, text="Type /yields to get the top yield opportunities.")
 
-async def yields(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    message = processor.generate_opportunities_message()
+async def merkl_yields(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    message = processor.generate_merkl_opportunities_message()
+    await context.bot.send_message(chat_id=update.effective_chat.id, text=message)
+
+async def euler_yields(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    message = processor.generate_euler_opportunities_message()
     await context.bot.send_message(chat_id=update.effective_chat.id, text=message)
 
 async def unknown(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -35,8 +39,11 @@ if __name__ == '__main__':
     start_handler = CommandHandler('start', start)
     application.add_handler(start_handler)
 
-    yields_handler = CommandHandler('yields', yields)
-    application.add_handler(yields_handler)
+    merkl_yields_handler = CommandHandler('merkl_yields', merkl_yields)
+    application.add_handler(merkl_yields_handler)
+
+    euler_yields_handler = CommandHandler('euler_yields', euler_yields)
+    application.add_handler(euler_yields_handler)
 
     unknown_handler = MessageHandler(filters.COMMAND, unknown)
     application.add_handler(unknown_handler)

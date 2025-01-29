@@ -3,7 +3,7 @@ import json
 
 def generate_merkl_data(chain_id_list: list, minimum_tvl: int) -> dict:
     merkl_url = "https://api.merkl.xyz/v4/opportunities/"
-    chain_ids = ','.join(chain_id_list)
+    chain_ids = ','.join(str(chain_id) for chain_id in chain_id_list)
     params = {
         "chainId": chain_ids,
         "minimumTvl": minimum_tvl,
@@ -23,12 +23,9 @@ def generate_merkl_data(chain_id_list: list, minimum_tvl: int) -> dict:
         'protocol': x.get('protocol', {}).get('name'),
         'action': x.get('action'),
         'apr': x.get('apr'),
-        'tvl': x.get('tvl')
+        'tvl': x.get('tvl'),
+        'vault_address': x.get('address')
     } for x in sorted_data]
 
     with open('src/data/merkl_data.json', 'w') as f:
         json.dump(formatted_data, f, indent=2)
-
-chain_id_list = ['8453', '1923']
-minimum_tvl = 1_000_000
-generate_merkl_data(chain_id_list, minimum_tvl)

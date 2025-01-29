@@ -1,0 +1,1868 @@
+[
+  {
+    "chainId": 1923,
+    "type": "EULER",
+    "identifier": "0x49C077B74292aA8F589d39034Bf9C1Ed1825a608",
+    "name": "EULER Supply WETH on Euler Swell WETH vault",
+    "status": "LIVE",
+    "action": "LEND",
+    "tvl": 2402239.11150565,
+    "apr": 51.1614166218486,
+    "dailyRewards": 3367.17687696,
+    "tags": [],
+    "id": "11861772098996779857",
+    "tokens": [
+      {
+        "id": "13371689348100489675",
+        "name": "EVK Vault eWETH-1",
+        "chainId": 1923,
+        "address": "0x49C077B74292aA8F589d39034Bf9C1Ed1825a608",
+        "decimals": 18,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": null,
+        "symbol": "eWETH-1"
+      }
+    ],
+    "chain": {
+      "id": 1923,
+      "name": "Swell",
+      "icon": ""
+    },
+    "protocol": {
+      "id": "euler",
+      "tags": [
+        "LENDING"
+      ],
+      "name": "Euler",
+      "description": "",
+      "url": "https://app.euler.finance/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/euler.svg"
+    },
+    "aprRecord": {
+      "cumulated": 51.1614166218486,
+      "timestamp": "1738117263",
+      "breakdowns": [
+        {
+          "id": 33603044,
+          "identifier": "0x67978443a15c8c47a2a6de572cc9559aece72b43267b1dcc2c8e9f7cc662d2e8",
+          "type": "CAMPAIGN",
+          "value": 51.02263505450036,
+          "aprRecordId": "15316392195877367937"
+        },
+        {
+          "id": 33603045,
+          "identifier": "0xfcb57b2c7f47727287102347e31f9bf941e4f27e1343f961823faaa4cf893403",
+          "type": "CAMPAIGN",
+          "value": 0.138781567348241,
+          "aprRecordId": "15316392195877367937"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "15316392195877367937",
+      "total": 2402239.11150565,
+      "timestamp": "1738117263",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "15316392195877367937",
+      "total": 3367.17687696,
+      "timestamp": "1738117263",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "3484116314324739168",
+            "name": "wSWELL",
+            "chainId": 1923,
+            "address": "0xda1F8EA667dc5600F5f654DF44b47F1639a83DD1",
+            "decimals": 18,
+            "symbol": "wSWELL",
+            "displaySymbol": "",
+            "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWELL.svg",
+            "verified": true,
+            "isTest": false,
+            "price": 0.01938664
+          },
+          "amount": "471142857142857142857",
+          "id": 8089174,
+          "value": 9.13387696,
+          "campaignId": "1215575732071491573",
+          "dailyRewardsRecordId": "15316392195877367937"
+        },
+        {
+          "token": {
+            "id": "3484116314324739168",
+            "name": "wSWELL",
+            "chainId": 1923,
+            "address": "0xda1F8EA667dc5600F5f654DF44b47F1639a83DD1",
+            "decimals": 18,
+            "symbol": "wSWELL",
+            "displaySymbol": "",
+            "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWELL.svg",
+            "verified": true,
+            "isTest": false,
+            "price": 0.01938664
+          },
+          "amount": "173214285714285714285714",
+          "id": 8089173,
+          "value": 3358.043,
+          "campaignId": "17320983449317555076",
+          "dailyRewardsRecordId": "15316392195877367937"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 8453,
+    "type": "EULER",
+    "identifier": "0xC063C3b3625DF5F362F60f35B0bcd98e0fa650fb",
+    "name": "EULER Supply USDC on Apostro Resolv USDC vault vault",
+    "status": "LIVE",
+    "action": "LEND",
+    "tvl": 1197627.585928,
+    "apr": 18.49421258626963,
+    "dailyRewards": 606.8268266666666,
+    "tags": [],
+    "id": "17112931661117154140",
+    "tokens": [
+      {
+        "id": "8201538477322843976",
+        "name": "EVK Vault eUSDC-3",
+        "chainId": 8453,
+        "address": "0xC063C3b3625DF5F362F60f35B0bcd98e0fa650fb",
+        "decimals": 6,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": null,
+        "symbol": "eUSDC-3"
+      }
+    ],
+    "chain": {
+      "id": 8453,
+      "name": "Base",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/chains/base.svg"
+    },
+    "protocol": {
+      "id": "euler",
+      "tags": [
+        "LENDING"
+      ],
+      "name": "Euler",
+      "description": "",
+      "url": "https://app.euler.finance/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/euler.svg"
+    },
+    "aprRecord": {
+      "cumulated": 18.49421258626963,
+      "timestamp": "1738117283",
+      "breakdowns": [
+        {
+          "id": 33603717,
+          "identifier": "0x809c914f1c617d050a51398ffadc8f6c5c1aaf02f09a9b5875b9d75351858851",
+          "type": "CAMPAIGN",
+          "value": 9.247106293134815,
+          "aprRecordId": "17227850666979576310"
+        },
+        {
+          "id": 33603718,
+          "identifier": "0x2340c7c2d3efe6ed0eb6e532f6707b692a58b2340ca31ac426544d5166f4a3d3",
+          "type": "CAMPAIGN",
+          "value": 9.247106293134815,
+          "aprRecordId": "17227850666979576310"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "17227850666979576310",
+      "total": 1197627.585928,
+      "timestamp": "1738117283",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "17227850666979576310",
+      "total": 606.8268266666666,
+      "timestamp": "1738117283",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "889939939440169913",
+            "name": "Reward EUL",
+            "chainId": 8453,
+            "address": "0xE08e1f00D388E201e48842E53fA96195568e6813",
+            "decimals": 18,
+            "symbol": "rEUL",
+            "displaySymbol": "",
+            "icon": "",
+            "verified": false,
+            "isTest": false,
+            "price": 3.64
+          },
+          "amount": "83355333333333333333",
+          "id": 8089384,
+          "value": 303.4134133333333,
+          "campaignId": "11380113389509206848",
+          "dailyRewardsRecordId": "17227850666979576310"
+        },
+        {
+          "token": {
+            "id": "889939939440169913",
+            "name": "Reward EUL",
+            "chainId": 8453,
+            "address": "0xE08e1f00D388E201e48842E53fA96195568e6813",
+            "decimals": 18,
+            "symbol": "rEUL",
+            "displaySymbol": "",
+            "icon": "",
+            "verified": false,
+            "isTest": false,
+            "price": 3.64
+          },
+          "amount": "83355333333333333333",
+          "id": 8089383,
+          "value": 303.4134133333333,
+          "campaignId": "10088559351462482233",
+          "dailyRewardsRecordId": "17227850666979576310"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 8453,
+    "type": "EULER",
+    "identifier": "0x29Dbce367F5157B924Af5093617bb128477D7A5C",
+    "name": "EULER Supply USR on Apostro Resolv USR vault vault",
+    "status": "LIVE",
+    "action": "LEND",
+    "tvl": 1091369.37641744,
+    "apr": 10.14348947222586,
+    "dailyRewards": 303.29572,
+    "tags": [],
+    "id": "1167875068273254950",
+    "tokens": [
+      {
+        "id": "6121191010441110907",
+        "name": "EVK Vault eUSR-2",
+        "chainId": 8453,
+        "address": "0x29Dbce367F5157B924Af5093617bb128477D7A5C",
+        "decimals": 18,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": null,
+        "symbol": "eUSR-2"
+      }
+    ],
+    "chain": {
+      "id": 8453,
+      "name": "Base",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/chains/base.svg"
+    },
+    "protocol": {
+      "id": "euler",
+      "tags": [
+        "LENDING"
+      ],
+      "name": "Euler",
+      "description": "",
+      "url": "https://app.euler.finance/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/euler.svg"
+    },
+    "aprRecord": {
+      "cumulated": 10.14348947222586,
+      "timestamp": "1738117283",
+      "breakdowns": [
+        {
+          "id": 33603719,
+          "identifier": "0xe6ab9392de8b824bc8504baeb687885c77c0295e81f5021206bfec40315c14a4",
+          "type": "CAMPAIGN",
+          "value": 5.073712817112585,
+          "aprRecordId": "12184071381567044574"
+        },
+        {
+          "id": 33603720,
+          "identifier": "0x4cfaca7eb21bcd6c5f1ee6b2a3c7e3323c6eb7b364003339c3bd26b26e193912",
+          "type": "CAMPAIGN",
+          "value": 5.069776655113274,
+          "aprRecordId": "12184071381567044574"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "12184071381567044574",
+      "total": 1091369.37641744,
+      "timestamp": "1738117283",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "12184071381567044574",
+      "total": 303.29572,
+      "timestamp": "1738117283",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "889939939440169913",
+            "name": "Reward EUL",
+            "chainId": 8453,
+            "address": "0xE08e1f00D388E201e48842E53fA96195568e6813",
+            "decimals": 18,
+            "symbol": "rEUL",
+            "displaySymbol": "",
+            "icon": "",
+            "verified": false,
+            "isTest": false,
+            "price": 3.64
+          },
+          "amount": "41645333333333333333",
+          "id": 8089386,
+          "value": 151.5890133333333,
+          "campaignId": "5355505296492240593",
+          "dailyRewardsRecordId": "12184071381567044574"
+        },
+        {
+          "token": {
+            "id": "889939939440169913",
+            "name": "Reward EUL",
+            "chainId": 8453,
+            "address": "0xE08e1f00D388E201e48842E53fA96195568e6813",
+            "decimals": 18,
+            "symbol": "rEUL",
+            "displaySymbol": "",
+            "icon": "",
+            "verified": false,
+            "isTest": false,
+            "price": 3.64
+          },
+          "amount": "41677666666666666666",
+          "id": 8089385,
+          "value": 151.7067066666667,
+          "campaignId": "6689566814278835028",
+          "dailyRewardsRecordId": "12184071381567044574"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 1923,
+    "type": "ERC20",
+    "identifier": "0x939f1cC163fDc38a77571019eb4Ad1794873bf8c",
+    "name": "Hold rSWELL (rSWELL)",
+    "status": "LIVE",
+    "action": "BORROW",
+    "tvl": 1234851.442329124,
+    "apr": 9.925774493878906,
+    "dailyRewards": 335.8043,
+    "tags": [],
+    "id": "4327716127332055121",
+    "tokens": [
+      {
+        "id": "6616547050067031582",
+        "name": "rSWELL",
+        "chainId": 1923,
+        "address": "0x939f1cC163fDc38a77571019eb4Ad1794873bf8c",
+        "decimals": 18,
+        "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rSWELL.svg",
+        "verified": true,
+        "isTest": false,
+        "price": 0.01938664,
+        "symbol": "rSWELL"
+      }
+    ],
+    "chain": {
+      "id": 1923,
+      "name": "Swell",
+      "icon": ""
+    },
+    "protocol": {
+      "id": "aave",
+      "tags": [
+        "LENDING",
+        "zksync"
+      ],
+      "name": "Aave",
+      "description": "A decentralized liquidity protocol where users can deposit and borrow",
+      "url": "https://app.aave.com/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/aave.svg"
+    },
+    "aprRecord": {
+      "cumulated": 9.925774493878906,
+      "timestamp": "1738117264",
+      "breakdowns": [
+        {
+          "id": 33603070,
+          "identifier": "0xe89a809a8263b15203f0701c8137776b301dec7a5d0edc3d9d58cbbf3a3620b2",
+          "type": "CAMPAIGN",
+          "value": 9.925774493878906,
+          "aprRecordId": "784944553808433295"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "784944553808433295",
+      "total": 1234851.442329124,
+      "timestamp": "1738117264",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "784944553808433295",
+      "total": 335.8043,
+      "timestamp": "1738117264",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "3484116314324739168",
+            "name": "wSWELL",
+            "chainId": 1923,
+            "address": "0xda1F8EA667dc5600F5f654DF44b47F1639a83DD1",
+            "decimals": 18,
+            "symbol": "wSWELL",
+            "displaySymbol": "",
+            "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWELL.svg",
+            "verified": true,
+            "isTest": false,
+            "price": 0.01938664
+          },
+          "amount": "17321428571428571428571",
+          "id": 8089189,
+          "value": 335.8043,
+          "campaignId": "8182721494108332654",
+          "dailyRewardsRecordId": "784944553808433295"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 8453,
+    "type": "RADIANT",
+    "identifier": "0x223A4066bd6A30477Ead12a7AF52125390C735dA",
+    "name": "Lend rweETH",
+    "status": "LIVE",
+    "action": "BORROW",
+    "tvl": 2396803.662726921,
+    "apr": 9.712474939758724,
+    "dailyRewards": 637.7779591714285,
+    "tags": [],
+    "id": "6029317367110100065",
+    "tokens": [
+      {
+        "id": "6614557394832913538",
+        "name": "Radiant interest bearing weETH",
+        "chainId": 8453,
+        "address": "0x223A4066bd6A30477Ead12a7AF52125390C735dA",
+        "decimals": 18,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": 3290.83,
+        "symbol": "rweETH"
+      }
+    ],
+    "chain": {
+      "id": 8453,
+      "name": "Base",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/chains/base.svg"
+    },
+    "protocol": {
+      "id": "radiant",
+      "tags": [
+        "LENDING"
+      ],
+      "name": "Radiant",
+      "description": "",
+      "url": "https://radiant.capital/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/radiant.svg"
+    },
+    "aprRecord": {
+      "cumulated": 9.712474939758724,
+      "timestamp": "1738117283",
+      "breakdowns": [
+        {
+          "id": 33603728,
+          "identifier": "0x283a6f0689a6a1703d7aa99c74fef4928343d2bbe5b2448d8df083fdf8d34577",
+          "type": "CAMPAIGN",
+          "value": 9.712474939758724,
+          "aprRecordId": "13619881129014326507"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "13619881129014326507",
+      "total": 2396803.662726921,
+      "timestamp": "1738117283",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "13619881129014326507",
+      "total": 637.7779591714285,
+      "timestamp": "1738117283",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "9903348955690597877",
+            "name": "Radiant MTW",
+            "chainId": 8453,
+            "address": "0xaBc44F1711C94CB72b96bf7dC24b567886359d71",
+            "decimals": 18,
+            "symbol": "mtwRDNT",
+            "displaySymbol": "",
+            "icon": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png",
+            "verified": true,
+            "isTest": false,
+            "price": 0.0431986
+          },
+          "amount": "14763857142857142857142",
+          "id": 8089394,
+          "value": 637.7779591714285,
+          "campaignId": "16966791405524021848",
+          "dailyRewardsRecordId": "13619881129014326507"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 8453,
+    "type": "EULER",
+    "identifier": "0x0A1a3b5f2041F33522C4efc754a7D096f880eE16",
+    "name": "EULER Supply USDC on Euler Base USDC vault",
+    "status": "LIVE",
+    "action": "LEND",
+    "tvl": 4895093.101021,
+    "apr": 9.561106072247801,
+    "dailyRewards": 758.5335333333334,
+    "tags": [],
+    "id": "7583853742468934912",
+    "tokens": [
+      {
+        "id": "14014476111305596978",
+        "name": "EVK Vault eUSDC-1",
+        "chainId": 8453,
+        "address": "0x0A1a3b5f2041F33522C4efc754a7D096f880eE16",
+        "decimals": 6,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": null,
+        "symbol": "eUSDC-1"
+      }
+    ],
+    "chain": {
+      "id": 8453,
+      "name": "Base",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/chains/base.svg"
+    },
+    "protocol": {
+      "id": "euler",
+      "tags": [
+        "LENDING"
+      ],
+      "name": "Euler",
+      "description": "",
+      "url": "https://app.euler.finance/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/euler.svg"
+    },
+    "aprRecord": {
+      "cumulated": 9.561106072247801,
+      "timestamp": "1738117282",
+      "breakdowns": [
+        {
+          "id": 33603707,
+          "identifier": "0x18a6be06c3e3f870858ff229f7cb8fa02f9ec8a89586860ed2538bf1cc716a83",
+          "type": "CAMPAIGN",
+          "value": 9.561106072247801,
+          "aprRecordId": "17841915810702239367"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "17841915810702239367",
+      "total": 4895093.101021,
+      "timestamp": "1738117282",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "17841915810702239367",
+      "total": 758.5335333333334,
+      "timestamp": "1738117282",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "889939939440169913",
+            "name": "Reward EUL",
+            "chainId": 8453,
+            "address": "0xE08e1f00D388E201e48842E53fA96195568e6813",
+            "decimals": 18,
+            "symbol": "rEUL",
+            "displaySymbol": "",
+            "icon": "",
+            "verified": false,
+            "isTest": false,
+            "price": 3.64
+          },
+          "amount": "208388333333333333333",
+          "id": 8089373,
+          "value": 758.5335333333334,
+          "campaignId": "10400968557687541772",
+          "dailyRewardsRecordId": "17841915810702239367"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 1923,
+    "type": "ERC20",
+    "identifier": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+    "name": "Hold Staked USDe (sUSDe)",
+    "status": "LIVE",
+    "action": "BORROW",
+    "tvl": 3430963.010421849,
+    "apr": 7.144849368978171,
+    "dailyRewards": 671.6086,
+    "tags": [
+      "swell",
+      "ethena"
+    ],
+    "id": "14601974232227125330",
+    "tokens": [
+      {
+        "id": "3722393211277991654",
+        "name": "Staked USDe",
+        "chainId": 1923,
+        "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+        "decimals": 18,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": 1.15,
+        "symbol": "sUSDe"
+      }
+    ],
+    "chain": {
+      "id": 1923,
+      "name": "Swell",
+      "icon": ""
+    },
+    "protocol": {
+      "id": "aave",
+      "tags": [
+        "LENDING",
+        "zksync"
+      ],
+      "name": "Aave",
+      "description": "A decentralized liquidity protocol where users can deposit and borrow",
+      "url": "https://app.aave.com/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/aave.svg"
+    },
+    "aprRecord": {
+      "cumulated": 7.144849368978171,
+      "timestamp": "1738117264",
+      "breakdowns": [
+        {
+          "id": 33603069,
+          "identifier": "0x2ba2dd49279bb225bd4622eaadcb3e0e19538c597e8255048a2ab3b4a3129586",
+          "type": "CAMPAIGN",
+          "value": 7.144849368978171,
+          "aprRecordId": "3871700912810699015"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "3871700912810699015",
+      "total": 3430963.010421849,
+      "timestamp": "1738117264",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "3871700912810699015",
+      "total": 671.6086,
+      "timestamp": "1738117264",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "3484116314324739168",
+            "name": "wSWELL",
+            "chainId": 1923,
+            "address": "0xda1F8EA667dc5600F5f654DF44b47F1639a83DD1",
+            "decimals": 18,
+            "symbol": "wSWELL",
+            "displaySymbol": "",
+            "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWELL.svg",
+            "verified": true,
+            "isTest": false,
+            "price": 0.01938664
+          },
+          "amount": "34642857142857142857142",
+          "id": 8089188,
+          "value": 671.6086,
+          "campaignId": "13819885009415569991",
+          "dailyRewardsRecordId": "3871700912810699015"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 1923,
+    "type": "ERC20",
+    "identifier": "0x7c98E0779EB5924b3ba8cE3B17648539ed5b0Ecc",
+    "name": "Hold Wrapped liquid staked Ether 2.0 (wstETH)",
+    "status": "LIVE",
+    "action": "BORROW",
+    "tvl": 1092893.830377278,
+    "apr": 5.607524083912528,
+    "dailyRewards": 167.90215,
+    "tags": [],
+    "id": "10461365344518051985",
+    "tokens": [
+      {
+        "id": "7536753799782604829",
+        "name": "Wrapped liquid staked Ether 2.0",
+        "chainId": 1923,
+        "address": "0x7c98E0779EB5924b3ba8cE3B17648539ed5b0Ecc",
+        "decimals": 18,
+        "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/WSTETH.svg",
+        "verified": false,
+        "isTest": false,
+        "price": 3704.76,
+        "symbol": "wstETH"
+      }
+    ],
+    "chain": {
+      "id": 1923,
+      "name": "Swell",
+      "icon": ""
+    },
+    "protocol": {
+      "id": "aave",
+      "tags": [
+        "LENDING",
+        "zksync"
+      ],
+      "name": "Aave",
+      "description": "A decentralized liquidity protocol where users can deposit and borrow",
+      "url": "https://app.aave.com/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/aave.svg"
+    },
+    "aprRecord": {
+      "cumulated": 5.607524083912528,
+      "timestamp": "1738117264",
+      "breakdowns": [
+        {
+          "id": 33603068,
+          "identifier": "0x173b301b5c5c1e9982fbf41f90a62b599cfe7d64376c21348f7111d4be9dcd4c",
+          "type": "CAMPAIGN",
+          "value": 5.607524083912528,
+          "aprRecordId": "5762907224296766555"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "5762907224296766555",
+      "total": 1092893.830377278,
+      "timestamp": "1738117264",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "5762907224296766555",
+      "total": 167.90215,
+      "timestamp": "1738117264",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "3484116314324739168",
+            "name": "wSWELL",
+            "chainId": 1923,
+            "address": "0xda1F8EA667dc5600F5f654DF44b47F1639a83DD1",
+            "decimals": 18,
+            "symbol": "wSWELL",
+            "displaySymbol": "",
+            "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWELL.svg",
+            "verified": true,
+            "isTest": false,
+            "price": 0.01938664
+          },
+          "amount": "8660714285714285714285",
+          "id": 8089187,
+          "value": 167.90215,
+          "campaignId": "15340636850740281556",
+          "dailyRewardsRecordId": "5762907224296766555"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 1923,
+    "type": "ERC20",
+    "identifier": "0xA6cB988942610f6731e664379D15fFcfBf282b44",
+    "name": "Hold Wrapped eETH (weETH)",
+    "status": "LIVE",
+    "action": "BORROW",
+    "tvl": 89241991.05598806,
+    "apr": 5.493762209904247,
+    "dailyRewards": 13432.172,
+    "tags": [
+      "swell",
+      "etherfi"
+    ],
+    "id": "1514518556380898243",
+    "tokens": [
+      {
+        "id": "507604498487198023",
+        "name": "Wrapped eETH",
+        "chainId": 1923,
+        "address": "0xA6cB988942610f6731e664379D15fFcfBf282b44",
+        "decimals": 18,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": 3290.83,
+        "symbol": "weETH"
+      }
+    ],
+    "chain": {
+      "id": 1923,
+      "name": "Swell",
+      "icon": ""
+    },
+    "protocol": {
+      "id": "aave",
+      "tags": [
+        "LENDING",
+        "zksync"
+      ],
+      "name": "Aave",
+      "description": "A decentralized liquidity protocol where users can deposit and borrow",
+      "url": "https://app.aave.com/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/aave.svg"
+    },
+    "aprRecord": {
+      "cumulated": 5.493762209904247,
+      "timestamp": "1738117263",
+      "breakdowns": [
+        {
+          "id": 33603049,
+          "identifier": "0x8e732ce88614270aa06d78caf1b9debfcca2755404d2beb885ba4d017896e92c",
+          "type": "CAMPAIGN",
+          "value": 5.493762209904247,
+          "aprRecordId": "5715207489825543553"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "5715207489825543553",
+      "total": 89241991.05598806,
+      "timestamp": "1738117263",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "5715207489825543553",
+      "total": 13432.172,
+      "timestamp": "1738117263",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "3484116314324739168",
+            "name": "wSWELL",
+            "chainId": 1923,
+            "address": "0xda1F8EA667dc5600F5f654DF44b47F1639a83DD1",
+            "decimals": 18,
+            "symbol": "wSWELL",
+            "displaySymbol": "",
+            "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWELL.svg",
+            "verified": true,
+            "isTest": false,
+            "price": 0.01938664
+          },
+          "amount": "692857142857142857142857",
+          "id": 8089177,
+          "value": 13432.172,
+          "campaignId": "2678500001807459580",
+          "dailyRewardsRecordId": "5715207489825543553"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 8453,
+    "type": "EULER",
+    "identifier": "0x3f0d3Fd87A42BDaa3dfCC13ADA42eA922e638a7A",
+    "name": "EULER Supply LBTC on Euler Base LBTC vault",
+    "status": "LIVE",
+    "action": "LEND",
+    "tvl": 1107854.8475533,
+    "apr": 4.443717921054771,
+    "dailyRewards": 134.87656,
+    "tags": [],
+    "id": "4126842605121122933",
+    "tokens": [
+      {
+        "id": "3929134505102064900",
+        "name": "EVK Vault eLBTC-1",
+        "chainId": 8453,
+        "address": "0x3f0d3Fd87A42BDaa3dfCC13ADA42eA922e638a7A",
+        "decimals": 8,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": null,
+        "symbol": "eLBTC-1"
+      }
+    ],
+    "chain": {
+      "id": 8453,
+      "name": "Base",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/chains/base.svg"
+    },
+    "protocol": {
+      "id": "euler",
+      "tags": [
+        "LENDING"
+      ],
+      "name": "Euler",
+      "description": "",
+      "url": "https://app.euler.finance/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/euler.svg"
+    },
+    "aprRecord": {
+      "cumulated": 4.443717921054771,
+      "timestamp": "1738117283",
+      "breakdowns": [
+        {
+          "id": 33603714,
+          "identifier": "0x181ff96e41dcb6c08300ca0d2f107ef89ad45820448bbdd3562059fea31b52ce",
+          "type": "CAMPAIGN",
+          "value": 4.443717921054771,
+          "aprRecordId": "13694230288431224899"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "13694230288431224899",
+      "total": 1107854.8475533,
+      "timestamp": "1738117283",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "13694230288431224899",
+      "total": 134.87656,
+      "timestamp": "1738117283",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "889939939440169913",
+            "name": "Reward EUL",
+            "chainId": 8453,
+            "address": "0xE08e1f00D388E201e48842E53fA96195568e6813",
+            "decimals": 18,
+            "symbol": "rEUL",
+            "displaySymbol": "",
+            "icon": "",
+            "verified": false,
+            "isTest": false,
+            "price": 3.64
+          },
+          "amount": "37054000000000000000",
+          "id": 8089380,
+          "value": 134.87656,
+          "campaignId": "10149705631375220843",
+          "dailyRewardsRecordId": "13694230288431224899"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 1923,
+    "type": "ERC20",
+    "identifier": "0xc3eACf0612346366Db554C991D7858716db09f58",
+    "name": "Hold KelpDao Restaked ETH (rsETH)",
+    "status": "LIVE",
+    "action": "BORROW",
+    "tvl": 37096862.49748169,
+    "apr": 4.295218776542536,
+    "dailyRewards": 4365.4559,
+    "tags": [
+      "swell",
+      "kelp"
+    ],
+    "id": "5725810795842168894",
+    "tokens": [
+      {
+        "id": "2716664424127906491",
+        "name": "KelpDao Restaked ETH",
+        "chainId": 1923,
+        "address": "0xc3eACf0612346366Db554C991D7858716db09f58",
+        "decimals": 18,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": 3265.694786715944,
+        "symbol": "rsETH"
+      }
+    ],
+    "chain": {
+      "id": 1923,
+      "name": "Swell",
+      "icon": ""
+    },
+    "protocol": {
+      "id": "aave",
+      "tags": [
+        "LENDING",
+        "zksync"
+      ],
+      "name": "Aave",
+      "description": "A decentralized liquidity protocol where users can deposit and borrow",
+      "url": "https://app.aave.com/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/aave.svg"
+    },
+    "aprRecord": {
+      "cumulated": 4.295218776542536,
+      "timestamp": "1738117264",
+      "breakdowns": [
+        {
+          "id": 33603067,
+          "identifier": "0x47cc6f93277cb4d8a92a38911ef002ec93c2e67938833bebb13de079c507e506",
+          "type": "CAMPAIGN",
+          "value": 4.295218776542536,
+          "aprRecordId": "971401387592363592"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "971401387592363592",
+      "total": 37096862.49748169,
+      "timestamp": "1738117264",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "971401387592363592",
+      "total": 4365.4559,
+      "timestamp": "1738117264",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "3484116314324739168",
+            "name": "wSWELL",
+            "chainId": 1923,
+            "address": "0xda1F8EA667dc5600F5f654DF44b47F1639a83DD1",
+            "decimals": 18,
+            "symbol": "wSWELL",
+            "displaySymbol": "",
+            "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWELL.svg",
+            "verified": true,
+            "isTest": false,
+            "price": 0.01938664
+          },
+          "amount": "225178571428571428571428",
+          "id": 8089186,
+          "value": 4365.4559,
+          "campaignId": "7919981144760761049",
+          "dailyRewardsRecordId": "971401387592363592"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 8453,
+    "type": "RADIANT",
+    "identifier": "0x47CeFa4f2170e6CbA87452E9053540e05182A556",
+    "name": "Lend rWETH",
+    "status": "LIVE",
+    "action": "BORROW",
+    "tvl": 1694498.100323086,
+    "apr": 4.22461904325371,
+    "dailyRewards": 196.1262724214286,
+    "tags": [
+      "radiant"
+    ],
+    "id": "5122529459146579392",
+    "tokens": [
+      {
+        "id": "12368639560447369408",
+        "name": "Radiant interest bearing WETH",
+        "chainId": 8453,
+        "address": "0x47CeFa4f2170e6CbA87452E9053540e05182A556",
+        "decimals": 18,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": null,
+        "symbol": "rWETH"
+      }
+    ],
+    "chain": {
+      "id": 8453,
+      "name": "Base",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/chains/base.svg"
+    },
+    "protocol": {
+      "id": "radiant",
+      "tags": [
+        "LENDING"
+      ],
+      "name": "Radiant",
+      "description": "",
+      "url": "https://radiant.capital/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/radiant.svg"
+    },
+    "aprRecord": {
+      "cumulated": 4.22461904325371,
+      "timestamp": "1738117283",
+      "breakdowns": [
+        {
+          "id": 33603727,
+          "identifier": "0x5c464c01a5f611e61984cf9576a14f9f67eb1260374b3b37022d69425d67dbc5",
+          "type": "CAMPAIGN",
+          "value": 4.22461904325371,
+          "aprRecordId": "13125182398149117402"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "13125182398149117402",
+      "total": 1694498.100323086,
+      "timestamp": "1738117283",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "13125182398149117402",
+      "total": 196.1262724214286,
+      "timestamp": "1738117283",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "9903348955690597877",
+            "name": "Radiant MTW",
+            "chainId": 8453,
+            "address": "0xaBc44F1711C94CB72b96bf7dC24b567886359d71",
+            "decimals": 18,
+            "symbol": "mtwRDNT",
+            "displaySymbol": "",
+            "icon": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png",
+            "verified": true,
+            "isTest": false,
+            "price": 0.0431986
+          },
+          "amount": "4540107142857142857142",
+          "id": 8089393,
+          "value": 196.1262724214286,
+          "campaignId": "6522525785478512498",
+          "dailyRewardsRecordId": "13125182398149117402"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 8453,
+    "type": "RADIANT",
+    "identifier": "0x2455485C868C94781AA25f3fe9a5F9A6771D659C",
+    "name": "Lend variableDebtWETH",
+    "status": "LIVE",
+    "action": "BORROW",
+    "tvl": 1357989.990593894,
+    "apr": 3.912874049002502,
+    "dailyRewards": 145.579282,
+    "tags": [
+      "radiant"
+    ],
+    "id": "16981043636987325356",
+    "tokens": [
+      {
+        "id": "15003371448521950505",
+        "name": "Radiant variable debt bearing WETH",
+        "chainId": 8453,
+        "address": "0x2455485C868C94781AA25f3fe9a5F9A6771D659C",
+        "decimals": 18,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": null,
+        "symbol": "variableDebtWETH"
+      }
+    ],
+    "chain": {
+      "id": 8453,
+      "name": "Base",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/chains/base.svg"
+    },
+    "protocol": {
+      "id": "radiant",
+      "tags": [
+        "LENDING"
+      ],
+      "name": "Radiant",
+      "description": "",
+      "url": "https://radiant.capital/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/radiant.svg"
+    },
+    "aprRecord": {
+      "cumulated": 3.912874049002502,
+      "timestamp": "1738117283",
+      "breakdowns": [
+        {
+          "id": 33603733,
+          "identifier": "0xeb69ecb2c92cdb711b53d4270b46ee71f079684712a2ad3e118b57ce678f4777",
+          "type": "CAMPAIGN",
+          "value": 3.912874049002502,
+          "aprRecordId": "5308038203904540211"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "5308038203904540211",
+      "total": 1357989.990593894,
+      "timestamp": "1738117283",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "5308038203904540211",
+      "total": 145.579282,
+      "timestamp": "1738117283",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "9903348955690597877",
+            "name": "Radiant MTW",
+            "chainId": 8453,
+            "address": "0xaBc44F1711C94CB72b96bf7dC24b567886359d71",
+            "decimals": 18,
+            "symbol": "mtwRDNT",
+            "displaySymbol": "",
+            "icon": "https://tokens.1inch.io/0x3082cc23568ea640225c2467653db90e9250aaa0.png",
+            "verified": true,
+            "isTest": false,
+            "price": 0.0431986
+          },
+          "amount": "3370000000000000000000",
+          "id": 8089399,
+          "value": 145.579282,
+          "campaignId": "255195444521602660",
+          "dailyRewardsRecordId": "5308038203904540211"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 8453,
+    "type": "EULER",
+    "identifier": "0x882018411Bc4A020A879CEE183441fC9fa5D7f8B",
+    "name": "EULER Supply cbBTC on Euler Base cbBTC vault",
+    "status": "LIVE",
+    "action": "LEND",
+    "tvl": 3104614.65733573,
+    "apr": 3.567138214882515,
+    "dailyRewards": 303.4134133333333,
+    "tags": [],
+    "id": "3250310143162855765",
+    "tokens": [
+      {
+        "id": "15592455405726793298",
+        "name": "EVK Vault ecbBTC-1",
+        "chainId": 8453,
+        "address": "0x882018411Bc4A020A879CEE183441fC9fa5D7f8B",
+        "decimals": 8,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": null,
+        "symbol": "ecbBTC-1"
+      }
+    ],
+    "chain": {
+      "id": 8453,
+      "name": "Base",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/chains/base.svg"
+    },
+    "protocol": {
+      "id": "euler",
+      "tags": [
+        "LENDING"
+      ],
+      "name": "Euler",
+      "description": "",
+      "url": "https://app.euler.finance/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/euler.svg"
+    },
+    "aprRecord": {
+      "cumulated": 3.567138214882515,
+      "timestamp": "1738117282",
+      "breakdowns": [
+        {
+          "id": 33603709,
+          "identifier": "0xe4c666e923ca13e830ed476f0cded9dd1dd6457c637fbc1ae4b2b473ebe9c211",
+          "type": "CAMPAIGN",
+          "value": 3.567138214882515,
+          "aprRecordId": "1099980333587776439"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "1099980333587776439",
+      "total": 3104614.65733573,
+      "timestamp": "1738117282",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "1099980333587776439",
+      "total": 303.4134133333333,
+      "timestamp": "1738117282",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "889939939440169913",
+            "name": "Reward EUL",
+            "chainId": 8453,
+            "address": "0xE08e1f00D388E201e48842E53fA96195568e6813",
+            "decimals": 18,
+            "symbol": "rEUL",
+            "displaySymbol": "",
+            "icon": "",
+            "verified": false,
+            "isTest": false,
+            "price": 3.64
+          },
+          "amount": "83355333333333333333",
+          "id": 8089375,
+          "value": 303.4134133333333,
+          "campaignId": "5323046427310613478",
+          "dailyRewardsRecordId": "1099980333587776439"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 1923,
+    "type": "ERC20",
+    "identifier": "0x09341022ea237a4DB1644DE7CCf8FA0e489D85B7",
+    "name": "Hold swETH (swETH)",
+    "status": "LIVE",
+    "action": "BORROW",
+    "tvl": 3732144.372064141,
+    "apr": 3.284132586548651,
+    "dailyRewards": 335.8043,
+    "tags": [],
+    "id": "7519438517885609581",
+    "tokens": [
+      {
+        "id": "5435754273672000960",
+        "name": "swETH",
+        "chainId": 1923,
+        "address": "0x09341022ea237a4DB1644DE7CCf8FA0e489D85B7",
+        "decimals": 18,
+        "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/swETH.svg",
+        "verified": true,
+        "isTest": false,
+        "price": 3356.38,
+        "symbol": "swETH"
+      }
+    ],
+    "chain": {
+      "id": 1923,
+      "name": "Swell",
+      "icon": ""
+    },
+    "protocol": {
+      "id": "aave",
+      "tags": [
+        "LENDING",
+        "zksync"
+      ],
+      "name": "Aave",
+      "description": "A decentralized liquidity protocol where users can deposit and borrow",
+      "url": "https://app.aave.com/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/aave.svg"
+    },
+    "aprRecord": {
+      "cumulated": 3.284132586548651,
+      "timestamp": "1738117264",
+      "breakdowns": [
+        {
+          "id": 33603071,
+          "identifier": "0x6725c717dbd43f44c19718d0f36e01a60a84f099ccb21c3c1d2021c4dc62bddc",
+          "type": "CAMPAIGN",
+          "value": 3.284132586548651,
+          "aprRecordId": "1890797287871014311"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "1890797287871014311",
+      "total": 3732144.372064141,
+      "timestamp": "1738117264",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "1890797287871014311",
+      "total": 335.8043,
+      "timestamp": "1738117264",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "3484116314324739168",
+            "name": "wSWELL",
+            "chainId": 1923,
+            "address": "0xda1F8EA667dc5600F5f654DF44b47F1639a83DD1",
+            "decimals": 18,
+            "symbol": "wSWELL",
+            "displaySymbol": "",
+            "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWELL.svg",
+            "verified": true,
+            "isTest": false,
+            "price": 0.01938664
+          },
+          "amount": "17321428571428571428571",
+          "id": 8089190,
+          "value": 335.8043,
+          "campaignId": "2719407872030948198",
+          "dailyRewardsRecordId": "1890797287871014311"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 8453,
+    "type": "EULER",
+    "identifier": "0x859160DB5841E5cfB8D3f144C6b3381A85A4b410",
+    "name": "EULER Supply WETH on Euler Base WETH vault",
+    "status": "LIVE",
+    "action": "LEND",
+    "tvl": 4445825.198259642,
+    "apr": 2.491008776278904,
+    "dailyRewards": 303.4134133333333,
+    "tags": [],
+    "id": "1389352741714875576",
+    "tokens": [
+      {
+        "id": "15928584834582158847",
+        "name": "EVK Vault eWETH-1",
+        "chainId": 8453,
+        "address": "0x859160DB5841E5cfB8D3f144C6b3381A85A4b410",
+        "decimals": 18,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": null,
+        "symbol": "eWETH-1"
+      }
+    ],
+    "chain": {
+      "id": 8453,
+      "name": "Base",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/chains/base.svg"
+    },
+    "protocol": {
+      "id": "euler",
+      "tags": [
+        "LENDING"
+      ],
+      "name": "Euler",
+      "description": "",
+      "url": "https://app.euler.finance/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/euler.svg"
+    },
+    "aprRecord": {
+      "cumulated": 2.491008776278904,
+      "timestamp": "1738117282",
+      "breakdowns": [
+        {
+          "id": 33603708,
+          "identifier": "0x600d210d7390c8a78dcaeb820e70e16b38c69ef00ca458ccfefe5abd9c9d4d9b",
+          "type": "CAMPAIGN",
+          "value": 2.491008776278904,
+          "aprRecordId": "7943135408663704040"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "7943135408663704040",
+      "total": 4445825.198259642,
+      "timestamp": "1738117282",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "7943135408663704040",
+      "total": 303.4134133333333,
+      "timestamp": "1738117282",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "889939939440169913",
+            "name": "Reward EUL",
+            "chainId": 8453,
+            "address": "0xE08e1f00D388E201e48842E53fA96195568e6813",
+            "decimals": 18,
+            "symbol": "rEUL",
+            "displaySymbol": "",
+            "icon": "",
+            "verified": false,
+            "isTest": false,
+            "price": 3.64
+          },
+          "amount": "83355333333333333333",
+          "id": 8089374,
+          "value": 303.4134133333333,
+          "campaignId": "9182226618620978864",
+          "dailyRewardsRecordId": "7943135408663704040"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 1923,
+    "type": "ERC20",
+    "identifier": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "name": "Hold Renzo Restaked ETH (ezETH)",
+    "status": "LIVE",
+    "action": "BORROW",
+    "tvl": 4928980.282462007,
+    "apr": 2.486692225897432,
+    "dailyRewards": 335.8043,
+    "tags": [],
+    "id": "15427118912146372586",
+    "tokens": [
+      {
+        "id": "7489229084894380201",
+        "name": "Renzo Restaked ETH",
+        "chainId": 1923,
+        "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+        "decimals": 18,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": 3215.4,
+        "symbol": "ezETH"
+      }
+    ],
+    "chain": {
+      "id": 1923,
+      "name": "Swell",
+      "icon": ""
+    },
+    "protocol": {
+      "id": "aave",
+      "tags": [
+        "LENDING",
+        "zksync"
+      ],
+      "name": "Aave",
+      "description": "A decentralized liquidity protocol where users can deposit and borrow",
+      "url": "https://app.aave.com/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/aave.svg"
+    },
+    "aprRecord": {
+      "cumulated": 2.486692225897432,
+      "timestamp": "1738117263",
+      "breakdowns": [
+        {
+          "id": 33603052,
+          "identifier": "0x4417dc35c832331f5562bec07bb8a27e352e6feddc63523800c64bd148a9ccfb",
+          "type": "CAMPAIGN",
+          "value": 2.486692225897432,
+          "aprRecordId": "14103216995353619250"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "14103216995353619250",
+      "total": 4928980.282462007,
+      "timestamp": "1738117263",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "14103216995353619250",
+      "total": 335.8043,
+      "timestamp": "1738117263",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "3484116314324739168",
+            "name": "wSWELL",
+            "chainId": 1923,
+            "address": "0xda1F8EA667dc5600F5f654DF44b47F1639a83DD1",
+            "decimals": 18,
+            "symbol": "wSWELL",
+            "displaySymbol": "",
+            "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWELL.svg",
+            "verified": true,
+            "isTest": false,
+            "price": 0.01938664
+          },
+          "amount": "17321428571428571428571",
+          "id": 8089178,
+          "value": 335.8043,
+          "campaignId": "6620503242757597985",
+          "dailyRewardsRecordId": "14103216995353619250"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 1923,
+    "type": "ERC20",
+    "identifier": "0x66E47E6957B85Cf62564610B76dD206BB04d831a",
+    "name": "Hold Swell Earn BTC (earnBTC)",
+    "status": "LIVE",
+    "action": "BORROW",
+    "tvl": 117233632.059968,
+    "apr": 1.568260327855018,
+    "dailyRewards": 5037.0645,
+    "tags": [],
+    "id": "8011300072438788852",
+    "tokens": [
+      {
+        "id": "7522083790719988522",
+        "name": "Swell Earn BTC",
+        "chainId": 1923,
+        "address": "0x66E47E6957B85Cf62564610B76dD206BB04d831a",
+        "decimals": 8,
+        "icon": "",
+        "verified": false,
+        "isTest": false,
+        "price": 102031,
+        "symbol": "earnBTC"
+      }
+    ],
+    "chain": {
+      "id": 1923,
+      "name": "Swell",
+      "icon": ""
+    },
+    "protocol": {
+      "id": "aave",
+      "tags": [
+        "LENDING",
+        "zksync"
+      ],
+      "name": "Aave",
+      "description": "A decentralized liquidity protocol where users can deposit and borrow",
+      "url": "https://app.aave.com/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/aave.svg"
+    },
+    "aprRecord": {
+      "cumulated": 1.568260327855018,
+      "timestamp": "1738117265",
+      "breakdowns": [
+        {
+          "id": 33603103,
+          "identifier": "0x24f33747d1abb2b420405c73796887bf87af682e3338938bcf1e1752ff81b25b",
+          "type": "CAMPAIGN",
+          "value": 1.568260327855018,
+          "aprRecordId": "15633296145073695757"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "15633296145073695757",
+      "total": 117233632.059968,
+      "timestamp": "1738117265",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "15633296145073695757",
+      "total": 5037.0645,
+      "timestamp": "1738117265",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "3484116314324739168",
+            "name": "wSWELL",
+            "chainId": 1923,
+            "address": "0xda1F8EA667dc5600F5f654DF44b47F1639a83DD1",
+            "decimals": 18,
+            "symbol": "wSWELL",
+            "displaySymbol": "",
+            "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWELL.svg",
+            "verified": true,
+            "isTest": false,
+            "price": 0.01938664
+          },
+          "amount": "259821428571428571428571",
+          "id": 8089204,
+          "value": 5037.0645,
+          "campaignId": "2396508797170667307",
+          "dailyRewardsRecordId": "15633296145073695757"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 1923,
+    "type": "ERC20",
+    "identifier": "0x18d33689AE5d02649a859A1CF16c9f0563975258",
+    "name": "Hold rswETH (rswETH)",
+    "status": "LIVE",
+    "action": "BORROW",
+    "tvl": 16000476.2760732,
+    "apr": 1.532061513484903,
+    "dailyRewards": 671.6086,
+    "tags": [],
+    "id": "16012765975778557228",
+    "tokens": [
+      {
+        "id": "18229661091928306114",
+        "name": "rswETH",
+        "chainId": 1923,
+        "address": "0x18d33689AE5d02649a859A1CF16c9f0563975258",
+        "decimals": 18,
+        "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/rswETH.svg",
+        "verified": true,
+        "isTest": false,
+        "price": 3197.23,
+        "symbol": "rswETH"
+      }
+    ],
+    "chain": {
+      "id": 1923,
+      "name": "Swell",
+      "icon": ""
+    },
+    "protocol": {
+      "id": "aave",
+      "tags": [
+        "LENDING",
+        "zksync"
+      ],
+      "name": "Aave",
+      "description": "A decentralized liquidity protocol where users can deposit and borrow",
+      "url": "https://app.aave.com/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/aave.svg"
+    },
+    "aprRecord": {
+      "cumulated": 1.532061513484903,
+      "timestamp": "1738117264",
+      "breakdowns": [
+        {
+          "id": 33603066,
+          "identifier": "0xe5ff96859d55239478a95e4774be6fa5dfd70e2010cf5bfbf352612b4daf65c6",
+          "type": "CAMPAIGN",
+          "value": 1.532061513484903,
+          "aprRecordId": "6045466184033971128"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "6045466184033971128",
+      "total": 16000476.2760732,
+      "timestamp": "1738117264",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "6045466184033971128",
+      "total": 671.6086,
+      "timestamp": "1738117264",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "3484116314324739168",
+            "name": "wSWELL",
+            "chainId": 1923,
+            "address": "0xda1F8EA667dc5600F5f654DF44b47F1639a83DD1",
+            "decimals": 18,
+            "symbol": "wSWELL",
+            "displaySymbol": "",
+            "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWELL.svg",
+            "verified": true,
+            "isTest": false,
+            "price": 0.01938664
+          },
+          "amount": "34642857142857142857142",
+          "id": 8089185,
+          "value": 671.6086,
+          "campaignId": "15389662342341845880",
+          "dailyRewardsRecordId": "6045466184033971128"
+        }
+      ]
+    }
+  },
+  {
+    "chainId": 1923,
+    "type": "ERC20",
+    "identifier": "0x1cf7b5f266A0F39d6f9408B90340E3E71dF8BF7B",
+    "name": "Hold swBTC (swBTC)",
+    "status": "LIVE",
+    "action": "BORROW",
+    "tvl": 10553304.3837428,
+    "apr": 1.161423617126167,
+    "dailyRewards": 335.8043,
+    "tags": [
+      "swell"
+    ],
+    "id": "15874737889142669704",
+    "tokens": [
+      {
+        "id": "16659649717339823113",
+        "name": "swBTC",
+        "chainId": 1923,
+        "address": "0x1cf7b5f266A0F39d6f9408B90340E3E71dF8BF7B",
+        "decimals": 8,
+        "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/swBTC.svg",
+        "verified": true,
+        "isTest": false,
+        "price": 100294,
+        "symbol": "swBTC"
+      }
+    ],
+    "chain": {
+      "id": 1923,
+      "name": "Swell",
+      "icon": ""
+    },
+    "protocol": {
+      "id": "aave",
+      "tags": [
+        "LENDING",
+        "zksync"
+      ],
+      "name": "Aave",
+      "description": "A decentralized liquidity protocol where users can deposit and borrow",
+      "url": "https://app.aave.com/",
+      "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/protocols/aave.svg"
+    },
+    "aprRecord": {
+      "cumulated": 1.161423617126167,
+      "timestamp": "1738117264",
+      "breakdowns": [
+        {
+          "id": 33603062,
+          "identifier": "0x1f2166f9be801b1c1700a1cf7776c773e83d6821d63d36379293b3b6858a82c0",
+          "type": "CAMPAIGN",
+          "value": 1.161423617126167,
+          "aprRecordId": "5236816735347096106"
+        }
+      ]
+    },
+    "tvlRecord": {
+      "id": "5236816735347096106",
+      "total": 10553304.3837428,
+      "timestamp": "1738117264",
+      "breakdowns": []
+    },
+    "rewardsRecord": {
+      "id": "5236816735347096106",
+      "total": 335.8043,
+      "timestamp": "1738117264",
+      "breakdowns": [
+        {
+          "token": {
+            "id": "3484116314324739168",
+            "name": "wSWELL",
+            "chainId": 1923,
+            "address": "0xda1F8EA667dc5600F5f654DF44b47F1639a83DD1",
+            "decimals": 18,
+            "symbol": "wSWELL",
+            "displaySymbol": "",
+            "icon": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/SWELL.svg",
+            "verified": true,
+            "isTest": false,
+            "price": 0.01938664
+          },
+          "amount": "17321428571428571428571",
+          "id": 8089183,
+          "value": 335.8043,
+          "campaignId": "402315354148627860",
+          "dailyRewardsRecordId": "5236816735347096106"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,7 @@
+/venv/
+/src/agent/data/
+
+# pycache
+__pycache__/
+
+.env

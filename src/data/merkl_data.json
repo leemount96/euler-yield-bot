@@ -1,0 +1,162 @@
+[
+  {
+    "chain_id": 1923,
+    "name": "EULER Supply WETH on Euler Swell WETH vault",
+    "protocol": "Euler",
+    "action": "LEND",
+    "apr": 51.18296382616492,
+    "tvl": 2401227.807488008
+  },
+  {
+    "chain_id": 1,
+    "name": "Borrow EBTC",
+    "protocol": "Badger",
+    "action": "BORROW",
+    "apr": 19.71032676663797,
+    "tvl": 3670986.566695501
+  },
+  {
+    "chain_id": 8453,
+    "name": "EULER Supply USDC on Apostro Resolv USDC vault vault",
+    "protocol": "Euler",
+    "action": "LEND",
+    "apr": 18.49422343091573,
+    "tvl": 1197626.883662919
+  },
+  {
+    "chain_id": 1,
+    "name": "EULER Supply USD0++ on Euler Yield USD0++ vault",
+    "protocol": "Euler",
+    "action": "LEND",
+    "apr": 14.64387890954887,
+    "tvl": 1209782.380936056
+  },
+  {
+    "chain_id": 1,
+    "name": "Supply USDC on ZeroLend",
+    "protocol": "ZeroLend",
+    "action": "LEND",
+    "apr": 12.1676180349876,
+    "tvl": 1318248.990987691
+  },
+  {
+    "chain_id": 1923,
+    "name": "Hold rSWELL (rSWELL)",
+    "protocol": "Aave",
+    "action": "BORROW",
+    "apr": 9.925774493878906,
+    "tvl": 1234851.442329124
+  },
+  {
+    "chain_id": 8453,
+    "name": "Lend rweETH",
+    "protocol": "Radiant",
+    "action": "BORROW",
+    "apr": 9.741051595202016,
+    "tvl": 2389772.32409109
+  },
+  {
+    "chain_id": 8453,
+    "name": "EULER Supply USDC on Euler Base USDC vault",
+    "protocol": "Euler",
+    "action": "LEND",
+    "apr": 9.560913944120502,
+    "tvl": 4895149.292028813
+  },
+  {
+    "chain_id": 1,
+    "name": "EULER Supply USDC on Euler Yield USDC vault",
+    "protocol": "Euler",
+    "action": "LEND",
+    "apr": 8.137651138760663,
+    "tvl": 10610902.390776
+  },
+  {
+    "chain_id": 1923,
+    "name": "Hold Staked USDe (sUSDe)",
+    "protocol": "Aave",
+    "action": "BORROW",
+    "apr": 7.144849368978171,
+    "tvl": 3430963.010421849
+  },
+  {
+    "chain_id": 1,
+    "name": "EULER Supply USDC on Euler Prime USDC vault",
+    "protocol": "Euler",
+    "action": "LEND",
+    "apr": 5.915199117004013,
+    "tvl": 11124291.28208659
+  },
+  {
+    "chain_id": 1,
+    "name": "EULER Supply sUSDe on Euler Yield sUSDe vault",
+    "protocol": "Euler",
+    "action": "LEND",
+    "apr": 5.774405401431263,
+    "tvl": 3068005.354965588
+  },
+  {
+    "chain_id": 1923,
+    "name": "Hold Wrapped eETH (weETH)",
+    "protocol": "Aave",
+    "action": "BORROW",
+    "apr": 5.493762209904247,
+    "tvl": 89241991.05598806
+  },
+  {
+    "chain_id": 1923,
+    "name": "Hold KelpDao Restaked ETH (rsETH)",
+    "protocol": "Aave",
+    "action": "BORROW",
+    "apr": 4.295218776542536,
+    "tvl": 37096862.49748169
+  },
+  {
+    "chain_id": 1,
+    "name": "EULER Supply WETH on Euler Prime WETH vault",
+    "protocol": "Euler",
+    "action": "LEND",
+    "apr": 4.221483878581636,
+    "tvl": 9132604.62866145
+  },
+  {
+    "chain_id": 1,
+    "name": "EULER Supply WBTC on Euler Prime WBTC vault",
+    "protocol": "Euler",
+    "action": "LEND",
+    "apr": 2.931858711569155,
+    "tvl": 10574464.78951926
+  },
+  {
+    "chain_id": 1,
+    "name": "EULER Supply cbBTC on Euler Prime cbBTC vault",
+    "protocol": "Euler",
+    "action": "LEND",
+    "apr": 2.892676062796617,
+    "tvl": 10717700.855643
+  },
+  {
+    "chain_id": 1923,
+    "name": "Hold Swell Earn BTC (earnBTC)",
+    "protocol": "Aave",
+    "action": "BORROW",
+    "apr": 1.574076470295073,
+    "tvl": 116800459.011712
+  },
+  {
+    "chain_id": 1923,
+    "name": "Hold rswETH (rswETH)",
+    "protocol": "Aave",
+    "action": "BORROW",
+    "apr": 1.532061513484903,
+    "tvl": 16000476.2760732
+  },
+  {
+    "chain_id": 1,
+    "name": "EULER Supply LBTC on Euler Prime LBTC vault",
+    "protocol": "Euler",
+    "action": "LEND",
+    "apr": 1.305881018829475,
+    "tvl": 16957810.89345812
+  }
+]

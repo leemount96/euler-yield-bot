@@ -20,7 +20,7 @@ logging.basicConfig(
 )
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await context.bot.send_message(chat_id=update.effective_chat.id, text="Type /yields to get the top yield opportunities.")
+    await context.bot.send_message(chat_id=update.effective_chat.id, text="Type /euler_yields to get the top Euler yield opportunities, or /merkl_yields to get the top Merkl yield opportunities.")
 
 async def merkl_yields(update: Update, context: ContextTypes.DEFAULT_TYPE):
     message = processor.generate_merkl_opportunities_message()
